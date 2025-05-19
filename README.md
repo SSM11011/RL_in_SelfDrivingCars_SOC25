@@ -1,6 +1,6 @@
 # RL_in_SelfDrivingCars_SOC25
 
-Plan of Action (Tentative):\\
+Plan of Action (Tentative): <br/>
 Week 1: Covering Basic concepts of RL
 Week 2: Moving to well-known RL algorithms 
 Week 3: Coding assignment to check the progress
