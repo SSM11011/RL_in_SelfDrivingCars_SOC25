@@ -1,11 +1,18 @@
 # RL_in_SelfDrivingCars_SOC25
 
-Plan of Action (Tentative): <br/>
-Week 1: Covering Basic concepts of RL
-Week 2: Moving to well-known RL algorithms 
-Week 3: Coding assignment to check the progress
-Week 4: Learning about vehicle dynamics, implementing some basic control algorithms
-Week 5: Coding assignment on control algorithm
-Week 6: Reading the final paper that we will follow
-Week 7: Implementing the paper 
-Week 8: Testing and tuning on the simulator
+## Plan of Action (Tentative): <br/>
+Week 1: Covering Basic concepts of RL <br/>
+Week 2: Moving to well-known RL algorithms <br/>
+Week 3: Coding assignment to check the progress <br/>
+Week 4: Learning about vehicle dynamics, implementing some basic control algorithms <br/>
+Week 5: Coding assignment on control algorithm <br/>
+Week 6: Reading the final paper that we will follow <br/>
+Week 7: Implementing the paper <br/>
+Week 8: Testing and tuning on the simulator <br/>
+
+## Major Checkpoints: <br/>
+Checkpoint 1: First coding assignment <br/> 
+Checkpoint 2: Second Coding assignment <br/>
+Checkpoint 3: Mid-project report <br/>
+Checkpoint 4: Final Coding assignment <br/>
+Checkpoint 5: Final report submission
