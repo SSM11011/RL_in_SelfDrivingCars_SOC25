@@ -2,5 +2,5 @@
 2.  If you are interested in a much more mathematical dive into RL, then I highly recommend CS747 lectures: https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-s2025/index.html <br/>
 You can find these lectures on CDEEP as well. <br/>
 Note: These lectures are divided into 3 sections. We don't need the first section (MABs). The second section is MDPs, and the third section is RL. Having a basic idea of the topics covered in section 2 is essential to cover section 3.
-3. 
+3. Sutton and Barto (Classic RL textbook): http://incompleteideas.net/book/RLbook2020.pdf
   
