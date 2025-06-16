@@ -12,10 +12,14 @@ Great work, and let’s keep the momentum going!
 
 So for our next step, lets start by learing a bit about the final environment that we are working towards- CARS!
 1. Watch these amazing videos to understand the physics behind how your car moves( It will also give you nostalgia of your JEE days Classical Mechanics):
-   https://youtu.be/wuUUN_DvYP4?si=Rx-1-OJ-YzdezsAo
-   https://youtu.be/D4AgX1zjx54?si=rMDDkRwxTegA-qlf
-   https://youtu.be/gikM0m3AWIk?si=e56jzYcvpUhJAlNx
+   https://youtu.be/wuUUN_DvYP4?si=Rx-1-OJ-YzdezsAo <br>
+   https://youtu.be/D4AgX1zjx54?si=rMDDkRwxTegA-qlf <br>
+   https://youtu.be/gikM0m3AWIk?si=e56jzYcvpUhJAlNx <br>
    https://youtu.be/6fyUnoRxPvs?si=iDfNxrdbjtm21exj
-2. 
+2. Then lets learn how we can control such environments without using fancy tools like Deep learning or Reinforcement Learning:
+  https://youtu.be/O8RENvOxbTY?si=TZ9yA8Kvu72bYNOy <br>
+  https://youtu.be/Gry1bbR1atc?si=ovUcb9tGIipUuEtG <br>
+  https://youtu.be/A-RdRUMhOEU?si=HabyvDFhdcA2GKk7 (Important)<br>
+  https://youtu.be/r7Gmw3rBoEA?si=Gz1PQTM1ISEenRxz <br>
 
 
