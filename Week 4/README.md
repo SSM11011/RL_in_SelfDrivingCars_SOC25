@@ -11,7 +11,7 @@ Beyond that, having this kind of unique and rigorous work in your skillset (and 
 Great work, and let’s keep the momentum going!
 
 So for our next step, lets start by learing a bit about the final environment that we are working towards- CARS!
-1. Watch these amazing videos to understand the physics behind how your car moves( It will also give you nostalgia of your JEE days Classical Mechanics):
+1. Watch these amazing videos to understand the physics behind how your car moves( It will also give you nostalgia of your JEE day's Classical Mechanics):<br>
    https://youtu.be/wuUUN_DvYP4?si=Rx-1-OJ-YzdezsAo <br>
    https://youtu.be/D4AgX1zjx54?si=rMDDkRwxTegA-qlf <br>
    https://youtu.be/gikM0m3AWIk?si=e56jzYcvpUhJAlNx <br>
