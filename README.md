@@ -23,3 +23,4 @@ Week 2: Studied various RL algos like SAC, PPO, DDPG, Q-learning, MPC, etc. <br/
 Week 3: Implemented the RL algos from scratch <br/>
 Week 4: Studied the basics of vehicle dynamics and vehicular models like kinematic bicycle model, dynamic bicycle model, etc. <br/>
 Week 5: Implemented the kinematic bicycle model with PID controller <br/>
+Week 6: Implemented PPO algorithm using Stable-Baselines3 in highway_env
